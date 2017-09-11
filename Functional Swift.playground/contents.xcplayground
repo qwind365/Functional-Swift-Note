@@ -6,5 +6,6 @@
         <page name='Battleship'/>
         <page name='Quick Check'/>
         <page name='函数式数据结构'/>
+        <page name='Graphics'/>
     </pages>
 </playground>
