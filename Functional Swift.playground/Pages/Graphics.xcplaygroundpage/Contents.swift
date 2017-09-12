@@ -71,7 +71,7 @@ class DrawView : UIView {
     }
 }
 
-let ellipse = Diagram.Attributed(.FillColor(UIColor.red), Diagram.Prim(CGSize.init(width: 100, height: 100), .Ellipse))
+let ellipse = Diagram.Attributed(.FillColor(UIColor.red), Diagram.Prim(CGSize.init(width: 50, height: 100), .Ellipse))
 
 let rectangle = Diagram.Attributed(.FillColor(UIColor.blue), Diagram.Prim(CGSize.init(width: 100, height: 50), .Rectangle))
 let text = Diagram.Attributed(.FillColor(UIColor.white), Diagram.Prim(CGSize.init(width: 30 , height: 20), .Text("Diagram Test")))

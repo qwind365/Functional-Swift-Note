@@ -7,5 +7,6 @@
         <page name='Quick Check'/>
         <page name='函数式数据结构'/>
         <page name='Graphics'/>
+        <page name='Generator &amp;&amp; Sequence'/>
     </pages>
 </playground>
